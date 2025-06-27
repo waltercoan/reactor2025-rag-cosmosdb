@@ -1,0 +1,45 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook metadata
+*.ipynb-meta
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+
+# Cache
+*.cache
+*.pytest_cache/
